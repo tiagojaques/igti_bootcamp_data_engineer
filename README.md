@@ -4,6 +4,9 @@
 ### Cronograma do BootCamp
 
 Modulo 01: Introdução
+ - ETL
+ - Airflow
+ - Airflow + Docker
 
 Modulo 02: Fundamentos
 
